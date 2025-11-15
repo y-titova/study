@@ -1,0 +1,15 @@
+# Виртуальное окружение
+study_for_auto_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE PyCharm
+.idea/
+
+# Логи и временные файлы
+*.log
+*.env
